@@ -10,6 +10,7 @@ button {
     outline: none;
     border: none;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent; /* Remove the blue highlight on mobile devices */
 }
 
 ::selection {
@@ -50,7 +51,7 @@ body {
     background-color: #111;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
     width: 60vmin;
-    height: 60vh;
+    height: 60vmin;
     padding: 2rem;
     border-radius: 2rem;
     margin: 3rem;
@@ -121,5 +122,6 @@ body {
     }
     .container {
         width: 74vmin;
+        height: 74vmin;
     }
 }
