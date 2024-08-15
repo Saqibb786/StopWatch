@@ -54,7 +54,7 @@ body {
     height: 60vmin;
     padding: 2rem;
     border-radius: 2rem;
-    margin: 3rem;
+    margin: 3rem auto;
 
     display: flex;
     flex-direction: column;
@@ -110,6 +110,7 @@ body {
     }
     .container {
         margin: 1.5rem;
+        margin-top: 4rem;
     }
 }
 @media screen and (max-width: 468px) {  
@@ -122,6 +123,7 @@ body {
     }
     .container {
         width: 74vmin;
-        height: 74vmin;
+        height: 80vmin;
+        margin-top: 5rem;
     }
 }
