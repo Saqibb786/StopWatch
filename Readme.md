@@ -15,7 +15,7 @@ The site is hosted live on Netlify. You can view it here: [Stopwatch](https://st
 
 ## Installation
 To run the project locally:
-1. Clone the repository: https://github.com/Saqibb786/StopWatch.git
+1. Clone the repository: git clone https://github.com/Saqibb786/StopWatch.git
 
 
 ## Contributions
