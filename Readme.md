@@ -2,6 +2,7 @@
 
 A simple and functional stopwatch implemented using HTML, CSS, and JavaScript. The stopwatch displays time in the format `hh:mm:ss::ms` and supports start, stop, and reset functionalities.
 
+![Stopwatch Preview](./images/Stopwatch-thumbnail.jpg)
 
 ## Live Demo
 The site is hosted live on Netlify. You can view it here: [Stopwatch](https://stopwatch-by-saqib.netlify.app/)
