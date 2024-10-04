@@ -13,8 +13,14 @@ The site is hosted live on Netlify. You can view it here: [Stopwatch](https://st
 - **Reset**: Reset the stopwatch to zero.
 
 
+## Installation
+To run the project locally:
+1. Clone the repository: https://github.com/Saqibb786/StopWatch.git
+
+
 ## Contributions
 If you’d like to contribute, feel free to fork the repository and submit a pull request. You can also open an issue for any bugs or feature requests.
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
